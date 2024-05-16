@@ -106,7 +106,9 @@ where:
 # Prompt 13 :- Apply the haversine_udf to calculate distance_in_km and OD_total_distance.
 
 # Efforts Estimation Metrics :- 
-![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/a9dd919a-c033-47b4-a94d-45859f7669ac)
+
+![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/0a6a0aee-c825-4629-a99b-f20a09320035)
+
 
 # Non functional requirements achieved: 
 - ⚡ **Reliability** - The job is restartable in case of any failures or reprocessing.
