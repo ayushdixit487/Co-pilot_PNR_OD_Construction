@@ -101,14 +101,20 @@ where:
 - lon1, lon2, lat1, and lat2 are in radians
 - R is the radius of the Earth
 
-# Prompt 12 :- Write a pyspark to create a new column which return the sum of value in distance_in_km_OD col over a window of "PNRHash".
+# Prompt 12 :- 
+Write a pyspark to create a new column which return the sum of value in distance_in_km_OD col over a window of "PNRHash".
 
-# Prompt 13 :- Apply the haversine_udf to calculate distance_in_km and OD_total_distance.
+# Prompt 13 :- 
+Apply the haversine_udf to calculate distance_in_km and OD_total_distance.
+
+# Note :- Please refer the code file for all the remaining prompts in detail.
 
 # Efforts Estimation Metrics :- 
 
 ![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/0a6a0aee-c825-4629-a99b-f20a09320035)
 
+# Execution Metrics :-
+![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/68c91fed-0d32-4054-957b-dc18f0e71c80)
 
 # Non functional requirements achieved: 
 - ⚡ **Reliability** - The job is restartable in case of any failures or reprocessing.
