@@ -74,6 +74,24 @@ ap_cd_val with ap_cd_val_desti, latitude with latitude_desti and longitude with 
 # Create a Pyspark UDF to convert DMS to Decimal degress
 This udf should take one parameter DMS, it should calculates the decimal degrees based on degrees, minutes, seconds, direction values and returns the result. If the direction is either 'S' or 'W', it negates the result because these directions represent negative values in the coordinate system.
 
+# Prompt 10 :-
+# Apply the UDF to all the latitude and longitude columns (Prompt to Copilot)
+
+# Prompt 11 :- 
+# Write a Python udf to calculate the distance between two points using their latitude and longitude, and this should take lat and lon for both points. This udf should return the distance in kilometers using the Haversine formula.
+
+Haversine formula:
+dlon = lon2 - lon1
+dlat = lat2 - lat1
+a = sin^2(dlat/2) + cos(lat1) * cos(lat2) * sin^2(dlon/2)
+c = 2 * atan2(sqrt(a), sqrt(1-a))
+distance = R * c
+where:
+- lon1, lon2, lat1, and lat2 are in radians
+- R is the radius of the Earth
+
+
+
 
 
 
