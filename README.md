@@ -53,6 +53,27 @@ Read the Delta files from given path to a pyspark dataFrames
 
 ![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/a36c208f-2f96-44ef-aceb-a6eed506eab9)
 
+# Prompt 4 :-
+# Join pnr_sample_df with distance_master on (Prompt to Copilot)
+ (ORIG_AP_CD = airport_origin_code and DESTN_AP_CD = airport_destination_code) or  (ORIG_AP_CD = airport_destination_code  and DESTN_AP_CD = airport_origin_code)
+
+# Prompt 5 :- 
+# Join the resultant dataframe with location_master on ORIG_AP_CD = ap_cd_val (Prompt to Copilot) 
+
+# Prompt 6 :- 
+# Rename column ap_cd_val with ap_cd_val_origin, latitude with latitude_origin and longitude with longitude_origin (Prompt to Copilot)
+
+# Prompt 7 :-
+# Join the new_Joined_df with location_master on DESTN_AP_CD = ap_cd_val (Prompt to Copilot) 
+
+# Prompt 8 :-
+# Rename the below column (Prompt to Copilot)
+ap_cd_val with ap_cd_val_desti, latitude with latitude_desti and longitude with longitude_desti, distance_in_km with distance_in_km_OD and column id with id_OD
+
+# Prompt 9 :-
+# Create a Pyspark UDF to convert DMS to Decimal degress
+This udf should take one parameter DMS, it should calculates the decimal degrees based on degrees, minutes, seconds, direction values and returns the result. If the direction is either 'S' or 'W', it negates the result because these directions represent negative values in the coordinate system.
+
 
 
 
