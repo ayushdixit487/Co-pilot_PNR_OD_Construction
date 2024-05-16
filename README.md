@@ -101,6 +101,17 @@ where:
 - lon1, lon2, lat1, and lat2 are in radians
 - R is the radius of the Earth
 
+# Efforts Estimation Metrics :- 
+![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/a9dd919a-c033-47b4-a94d-45859f7669ac)
+
+# Non functional requirements: 
+- ⚡ **Reliability** - The job should be restartable in case of failures or reprocessing
+
+- ⚡ **Performance** - Processing of the job is completed with in given time limit of 30 mins.
+
+- ⚡ **Data engineering standards**  - All the Code blocks are annotated with proper comments,optimization and parameterization of the code is also inplaced with all data engineering standards.
+
+
 
 
 
