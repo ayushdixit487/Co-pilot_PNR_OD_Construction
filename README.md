@@ -7,15 +7,9 @@
 
 
 # Team Name: Data Dragons
-![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/a561c336-142d-415e-94bd-dd034b478c83)
-<p align="center">
-  <img src="https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/c20ad41c-cc96-46dc-bd9f-b3faa16befc4" />
-</p>
 
-![MicrosoftTeams-image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/c20ad41c-cc96-46dc-bd9f-b3faa16befc4)
-
-# Team Members: 
-![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/a561c336-142d-415e-94bd-dd034b478c83)
+<img alt="GIF" src="https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/a561c336-142d-415e-94bd-dd034b478c83" style="width:400px;" />
+<img align="right" alt="GIF" src="https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/c20ad41c-cc96-46dc-bd9f-b3faa16befc4" style="width:150px;" />
 
 
 # Introduction
