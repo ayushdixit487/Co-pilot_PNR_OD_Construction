@@ -45,6 +45,16 @@ Read the Delta files from given path to a pyspark dataFrames
 
 ![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/461feccb-ba0e-469f-afa8-ddbeba8b5b76)
 
+## Structure of location_master_df ( Prompt to Copilot)
+
+![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/57f4f934-6d7e-40fc-988c-d046f0a568ca)
+
+## Structure of backtrack_exception_master_df ( Prompt to Copilot)
+
+![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/a36c208f-2f96-44ef-aceb-a6eed506eab9)
+
+
+
 
 
 
