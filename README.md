@@ -1,5 +1,22 @@
-![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/7cdf46b9-8871-4c28-90d1-d6e373f0d694) 
-# Co-pilot_PNR_OD_Construction
+<p align="center">
+  <img src="https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/7cdf46b9-8871-4c28-90d1-d6e373f0d694" />
+</p>
+
+# Project Name: Co-pilot_PNR_OD_Construction
+
+
+
+# Team Name: Data Dragons
+![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/a561c336-142d-415e-94bd-dd034b478c83)
+<p align="center">
+  <img src="https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/c20ad41c-cc96-46dc-bd9f-b3faa16befc4" />
+</p>
+
+![MicrosoftTeams-image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/c20ad41c-cc96-46dc-bd9f-b3faa16befc4)
+
+# Team Members: 
+![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/a561c336-142d-415e-94bd-dd034b478c83)
+
 
 # Introduction
 Origin and Destination planning is at the heart of airline operations, influencing route networks, scheduling, and customer service. Airlines strive to optimize O&D dynamics to meet the diverse needs of passengers, enhance connectivity, and ultimately, gain a competitive edge in the global market.
