@@ -15,3 +15,9 @@ Location master - /mnt/stppeedp/ppeedp/raw/eag/ey/test_cbi_reference_data_loader
 
 Backtrack exception master - /mnt/stppeedp/ppeedp/raw/eag/ey/test_cbi_reference_data_loader/target_dir/BacktrackExceptionmaster
 
+# 2. Output
+
+![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/fa0c6f61-ad9f-4cf3-adfd-ffeb5deaf425)
+
+
+
