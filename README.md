@@ -119,6 +119,9 @@ Apply the haversine_udf to calculate distance_in_km and OD_total_distance.
 # Deployment Runbook path :- 
 https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/blob/72408916c88bcfd4d08483b94b9a7b886f39165a/Deployment%20Runbook%20OD%20Construction%20Copilot.xlsx
 
+# Unit Test Cases with prompt :- 
+https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/blob/bdc89a19418ac15eafb9ab692e41522868e1841c/OD_Data_Dragon_Unit_Test.dbc
+
 # Non functional requirements achieved: 
 - ⚡ **Reliability** - The job is restartable in case of any failures or reprocessing.
 
