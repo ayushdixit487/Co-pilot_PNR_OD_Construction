@@ -104,8 +104,8 @@ where:
 # Efforts Estimation Metrics :- 
 ![image](https://github.com/ayushdixit487/Co-pilot_PNR_OD_Construction/assets/25612446/a9dd919a-c033-47b4-a94d-45859f7669ac)
 
-# Non functional requirements: 
-- ⚡ **Reliability** - The job should be restartable in case of failures or reprocessing
+# Non functional requirements achieved: 
+- ⚡ **Reliability** - The job is restartable in case of any failures or reprocessing
 
 - ⚡ **Performance** - Processing of the job is completed with in given time limit of 30 mins.
 
